@@ -1,0 +1,11 @@
+body{
+    background-image: url(img/animal.jpg);
+    background-size: cover;
+    color: white;
+}
+.panel{
+    height: 50px;
+   /** width: 70px;**/
+    background-color: rgb(199, 41, 41);
+    m
+}
